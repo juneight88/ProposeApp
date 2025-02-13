@@ -194,18 +194,18 @@ function App() {
   };
 
   const messages = [
-    "Every moment shared with you becomes a cherished memory.",
-    "To many more years of love, laughter, and endless adventures.",
-    "Your love makes every day extraordinary.",
-    "Here's to our beautiful journey together.",
-    "Forever grateful for the love we share."
+    "Love Sorry, Maglig.on ta lovey sirkol mata.",
+    "Meeoww , meowwww meowwww meowwww....",
+    "Love Padayona lang na imong pagka sirkol mata",
+    "Pretty! Nene",
+    "Iloveyou! Happy Anniversarry!"
   ];
 
   const memories = [
-    { title: "First Date", text: "Remember our first date at the café?" },
-    { title: "The Proposal", text: "That magical evening under the stars..." },
-    { title: "Our Adventures", text: "Every trip with you is unforgettable..." },
-    { title: "Little Moments", text: "Coffee mornings and sunset walks..." }
+    { title: "First Date", text: "First Date as lovey na kay ddtua jud sa barbequehan sa may ngitngit HAHAH" },
+    { title: "Kita na!", text: "Ddtua sa simbahan iyat kyka" },
+    { title: "Our Adventures", text: "Adventure nato kay wala kaayo pero naa kadtong gibaktas natong seawall hahahah" },
+    { title: "Little Moments", text: "Cuddleess! sa dalan HAHAHHA" }
   ];
 
   useEffect(() => {
